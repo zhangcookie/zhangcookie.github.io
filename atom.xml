@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-14T06:13:52.000Z</updated>
+  <updated>2017-10-14T07:10:43.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用hexo + github搭建博客</title>
+    <link href="http://yoursite.com/2017/10/14/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/10/14/使用hexo-github搭建博客/</id>
+    <published>2017-10-14T07:05:48.000Z</published>
+    <updated>2017-10-14T07:10:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="非常多人使用hexo-github搭建博客，早就想建一个自己的博客，但是总是加班没时间，有时间了又想休息，就拖到了现在，这个博客也是跟着网上很多前辈写的教程一步一步搭建起来的，写的可能不够详细，或者不够准确，在后期会慢慢加上一些遇到的坑和详细的细节"><a href="#非常多人使用hexo-github搭建博客，早就想建一个自己的博客，但是总是加班没时间，有时间了又想休息，就拖到了现在，这个博客也是跟着网上很多前辈写的教程一步一步搭建起来的，写的可能不够详细，或者不够准确，在后期会慢慢加上一些遇到的坑和详细的细节" class="headerlink" title="非常多人使用hexo + github搭建博客，早就想建一个自己的博客，但是总是加班没时间，有时间了又想休息，就拖到了现在，这个博客也是跟着网上很多前辈写的教程一步一步搭建起来的，写的可能不够详细，或者不够准确，在后期会慢慢加上一些遇到的坑和详细的细节"></a>非常多人使用hexo + github搭建博客，早就想建一个自己的博客，但是总是加班没时间，有时间了又想休息，就拖到了现在，这个博客也是跟着网上很多前辈写的教程一步一步搭建起来的，写的可能不够详细，或者不够准确，在后期会慢慢加上一些遇到的坑和详细的细节</h2><p>[TOC]</p><h2 id="前期准备工作"><a href="#前期准备工作" class="headerlink" title="前期准备工作"></a>前期准备工作</h2><ul><li>首先必须有一个github账号，如果没有，新建一个</li><li>安装nodejs、npm 注意<strong>安装稳定版nodejs，版本太高会导致安装hexo失败，坑已踩过</strong>，安装成功后可以在终端输入node -v和npm -v查看版本号</li><li>安装git，如果安装完毕可以在终端输入<strong>git</strong>查看是否安装</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;非常多人使用hexo-github搭建博客，早就想建一个自己的博客，但是总是加班没时间，有时间了又想休息，就拖到了现在，这个博客也是跟着网上很多前辈写的教程一步一步搭建起来的，写的可能不够详细，或者不够准确，在后期会慢慢加上一些遇到的坑和详细的细节&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>从此正规开始记录日常</title>
     <link href="http://yoursite.com/2017/10/14/%E4%BB%8E%E6%AD%A4%E6%AD%A3%E8%A7%84%E5%BC%80%E5%A7%8B%E8%AE%B0%E5%BD%95%E6%97%A5%E5%B8%B8/"/>
     <id>http://yoursite.com/2017/10/14/从此正规开始记录日常/</id>
     <published>2017-10-14T06:13:52.000Z</published>
-    <updated>2017-10-14T06:13:52.000Z</updated>
+    <updated>2017-10-14T07:10:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>从此开始记录日常了，本人一python开发工程师，python开发也有近两年，非常喜欢这个语言，真是所谓<strong>人生苦短，我用python</strong>，最近看到python的排名越来越高，心里也是很高兴，但写的python的时间越长，感觉自己不懂得越多，心里高兴，认为自己还有很大的提升空间，不过心里也有失落，觉得自己开发了这么久，怎么还是什么都不懂得状态，所以，建了这个博客，在空闲时间记录自己的学习状态，这个站是<strong>hexo + github</strong>搭建的，第一次使用<strong>hexo</strong>感觉非常神奇，因为是使用mac，所以安装期间也出现过很多坑，在之后我也会记录使用<strong>hexo + github</strong>搭建博客的过程，希望对想要搭博客的同学有帮助</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;从此开始记录日常了，本人一python开发工程师，python开发也有近两年，非常喜欢这个语言，真是所谓&lt;strong&gt;人生苦短，我用python&lt;/strong&gt;，最近看到python的排名越来越高，心里也是很高兴，但写的python的时间越长，感觉自己不懂得越多，心里
+      
+    
     </summary>
     
+    
+      <category term="日常" scheme="http://yoursite.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
